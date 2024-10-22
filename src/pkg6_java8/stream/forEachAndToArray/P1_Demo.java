@@ -1,4 +1,4 @@
-package stream.forEachAndToArray;
+package pkg6_java8.stream.forEachAndToArray;
 
 import java.util.Arrays;
 import java.util.List;

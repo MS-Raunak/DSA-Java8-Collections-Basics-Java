@@ -1,4 +1,4 @@
-package stream.count;
+package pkg6_java8.stream.count;
 
 import java.util.Arrays;
 import java.util.List;

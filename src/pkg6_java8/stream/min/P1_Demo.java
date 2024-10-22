@@ -1,4 +1,4 @@
-package stream.min;
+package pkg6_java8.stream.min;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package stream.sort;
+package pkg6_java8.stream.sort;
 
 import java.util.Arrays;
 import java.util.Comparator;

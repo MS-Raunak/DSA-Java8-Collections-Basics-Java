@@ -1,4 +1,4 @@
-package stream.distinct;
+package pkg6_java8.stream.distinct;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package stream.map;
+package pkg6_java8.stream.map;
 
 import java.util.Arrays;
 import java.util.List;

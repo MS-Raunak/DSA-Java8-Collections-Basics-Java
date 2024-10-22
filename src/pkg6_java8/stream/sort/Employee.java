@@ -1,4 +1,4 @@
-package stream.sort;
+package pkg6_java8.stream.sort;
 
 public class Employee {
     String name;

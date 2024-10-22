@@ -1,4 +1,4 @@
-package stream;
+package pkg6_java8.stream;
 
 public class Person {
     String name;

@@ -1,4 +1,4 @@
-package stream.reduce;
+package pkg6_java8.stream.reduce;
 
 import java.util.Arrays;
 import java.util.List;

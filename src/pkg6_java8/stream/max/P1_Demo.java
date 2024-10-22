@@ -1,4 +1,4 @@
-package stream.max;
+package pkg6_java8.stream.max;
 
 import java.util.Arrays;
 import java.util.List;
