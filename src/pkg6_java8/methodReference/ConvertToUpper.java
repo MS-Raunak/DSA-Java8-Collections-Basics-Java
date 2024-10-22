@@ -1,4 +1,4 @@
-package methodReference;
+package pkg6_java8.methodReference;
 @FunctionalInterface
 interface MyInterface2 {
     String toUpper(String s);

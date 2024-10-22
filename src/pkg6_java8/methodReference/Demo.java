@@ -1,4 +1,4 @@
-package methodReference;
+package pkg6_java8.methodReference;
 
 /**
  * Unlike lambda expression it is also used to provide implementation to the interface.
