@@ -1,4 +1,4 @@
-package SupplierFunctionalInterface;
+package pkg6_java8.SupplierFunctionalInterface;
 
 import java.util.Date;
 import java.util.function.Supplier;
