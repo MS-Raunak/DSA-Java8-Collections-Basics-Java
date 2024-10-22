@@ -51,6 +51,11 @@ public class Queue {
         return poppedData;
     }
 
+    //Get early added data
+    public Object poll(){
+        return first.data;
+    }
+
 
     // Check if the queue is empty
     private boolean isEmpty() {
@@ -82,9 +87,13 @@ public class Queue {
 
         queue.display();
 
+        //System.out.println("Polled: " + queue.poll()); //30 should be polled
+
         System.out.println("Popped: " + queue.pop()); // 10 should be popped
         System.out.println("Popped: " + queue.pop()); // 20 should be popped
         System.out.println("Popped: " + queue.pop()); // 30 should be popped
         System.out.println("Popped: " + queue.pop()); // Queue is empty
+
+
     }
 }
