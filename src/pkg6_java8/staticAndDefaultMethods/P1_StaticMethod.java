@@ -1,4 +1,4 @@
-package staticAndDefaultMethods;
+package pkg6_java8.staticAndDefaultMethods;
 
 /**
  * Static method introduced in java8 to avoid to use class for only static methods

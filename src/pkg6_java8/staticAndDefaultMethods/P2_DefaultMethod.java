@@ -1,4 +1,4 @@
-package staticAndDefaultMethods;
+package pkg6_java8.staticAndDefaultMethods;
 
 /**
  * default method is a non-static method which we can declare inside interface only.
