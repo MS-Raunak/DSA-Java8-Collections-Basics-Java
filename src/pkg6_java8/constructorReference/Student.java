@@ -1,4 +1,4 @@
-package constructorReference;
+package pkg6_java8.constructorReference;
 
 public class Student {
     String name;

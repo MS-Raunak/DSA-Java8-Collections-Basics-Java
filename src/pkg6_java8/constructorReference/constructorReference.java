@@ -1,4 +1,4 @@
-package constructorReference;
+package pkg6_java8.constructorReference;
 
 /**
  * Unlike lambda expression and Method Reference we use Constructor Reference to enable or to provide
