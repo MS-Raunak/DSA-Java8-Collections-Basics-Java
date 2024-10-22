@@ -1,4 +1,4 @@
-package consumerFunctionalInterface;
+package pkg6_java8.consumerFunctionalInterface;
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Consumer;

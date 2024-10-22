@@ -1,4 +1,4 @@
-package consumerFunctionalInterface;
+package pkg6_java8.consumerFunctionalInterface;
 
 public class Student {
     String name;
