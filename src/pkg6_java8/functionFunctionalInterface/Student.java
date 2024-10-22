@@ -1,4 +1,4 @@
-package functionFunctionalInterface;
+package pkg6_java8.functionFunctionalInterface;
 
 public class Student {
     String name;

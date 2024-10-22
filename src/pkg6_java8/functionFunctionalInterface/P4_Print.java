@@ -1,4 +1,4 @@
-package functionFunctionalInterface;
+package pkg6_java8.functionFunctionalInterface;
 
 import java.util.Arrays;
 import java.util.List;
